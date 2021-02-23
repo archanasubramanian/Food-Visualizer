@@ -1,6 +1,6 @@
 # :fork_and_knife: Food Visualizer :fork_and_knife:
 
-![Logo](/Users/archanasubramanian/Desktop/SFU/Food-Visualizer/food-logo.png)
+![Logo](/food-visualizer-master/Dashboard/SeeFood/assets/img/brand/food-logo.png)
 
 
 This Project helps in classifying food items and obtain nutritional insights , restaurant and recipe recommendations.All of this is 
