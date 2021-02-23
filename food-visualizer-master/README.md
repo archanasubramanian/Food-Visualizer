@@ -1,5 +1,7 @@
 # :fork_and_knife: Food Visualizer :fork_and_knife:
 
+![Logo](/Users/archanasubramanian/Desktop/SFU/Food-Visualizer/food-logo.png)
+
 
 This Project helps in classifying food items and obtain nutritional insights , restaurant and recipe recommendations.All of this is 
 facilitated through the react native application which works on both android and ios
@@ -23,11 +25,11 @@ The user can interface through the app where he/she can take a picture/Choose an
 
 We can see the architecture diagram of the entire system below:
 
-![architecture](/Output/Architecture.png)
+![architecture](/food-visualizer-master/Output/Architecture.png)
 
 ## Demo
 
-<p align="center"><img alt="logo" src="/Output/demo.gif"></p>
+<p align="center"><img alt="logo" src="/food-visualizer-master/Output/demo.gif"></p>
 
 You can download the app by clicking this [link](https://expo.io/@sammyboi/seefood)
 
@@ -95,21 +97,21 @@ We get insights for nutrients and recommendations for recipe and restaurants, We
 #### Nutrients insights 
 
 **insights for nutrients**
-![nutrient](/Output/nutrient.jpg)
+![nutrient](/food-visualizer-master/Output/nutrient.jpg)
 
 **insights on calorie values**
-![calorie](/Output/calorie.jpg)
+![calorie](/food-visualizer-master/Output/calorie.jpg)
 
 **insights on food fat**
-![fat](/Output/fat.jpg)
+![fat](/food-visualizer-master/Output/fat.jpg)
 
 #### Restaurant Recommendation
 
-![restaurants](/Output/restaurant.jpg)
+![restaurants](/food-visualizer-master/Output/restaurant.jpg)
 
 #### Recipe Recommendation
 
-![recipes](/Output/Recipes.png)
+![recipes](/food-visualizer-master/Output/Recipes.png)
 
 ## Summary
 
