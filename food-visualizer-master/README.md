@@ -8,7 +8,7 @@ facilitated through the react native application which works on both android and
 ## Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
-- [Getting Started](#Getting Started)
+- [Getting Started](#GettingStarted)
     * [Prerequisites](#prerequisites)
     * [deploying](#deploying)
 - [Tech Stack](#techstack)
