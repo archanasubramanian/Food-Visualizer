@@ -1,6 +1,5 @@
 # :fork_and_knife: Food Visualizer :fork_and_knife:
 
-![Logo](/Dashboard/SeeFood/assets/img/brand/food-logo.png)
 
 This Project helps in classifying food items and obtain nutritional insights , restaurant and recipe recommendations.All of this is 
 facilitated through the react native application which works on both android and ios
@@ -14,7 +13,7 @@ facilitated through the react native application which works on both android and
 - [Tech Stack](#techstack)
 - [Visualizations](#visualizations)
 - [Summary](#summary)
-- [Future Work](#future Work)
+- [Future Work](#futureWork)
 - [Acknowledgments](#acknowledgements)
 - [Authors](#authors)
 
